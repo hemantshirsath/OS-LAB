@@ -1,0 +1,3 @@
+Hello Hemant how are you
+Hope you are good 
+This is appended data to a file 
